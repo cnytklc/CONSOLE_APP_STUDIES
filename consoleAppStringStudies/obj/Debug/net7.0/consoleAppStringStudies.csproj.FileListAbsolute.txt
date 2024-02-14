@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\bin\Debug\net7.0\consoleAppStringStudies.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\bin\Debug\net7.0\consoleAppStringStudies.deps.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\bin\Debug\net7.0\consoleAppStringStudies.runtimeconfig.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\bin\Debug\net7.0\consoleAppStringStudies.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\bin\Debug\net7.0\consoleAppStringStudies.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\refint\consoleAppStringStudies.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\consoleAppStringStudies.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleAppStringStudies\obj\Debug\net7.0\ref\consoleAppStringStudies.dll
