@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\bin\Debug\net7.0\consoleApp_Array.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\bin\Debug\net7.0\consoleApp_Array.deps.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\bin\Debug\net7.0\consoleApp_Array.runtimeconfig.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\bin\Debug\net7.0\consoleApp_Array.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\bin\Debug\net7.0\consoleApp_Array.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\refint\consoleApp_Array.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\consoleApp_Array.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\consoleApp_Array\obj\Debug\net7.0\ref\consoleApp_Array.dll
