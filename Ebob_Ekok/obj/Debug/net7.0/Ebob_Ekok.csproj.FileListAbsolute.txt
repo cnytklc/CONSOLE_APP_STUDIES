@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\bin\Debug\net7.0\Ebob_Ekok.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\bin\Debug\net7.0\Ebob_Ekok.deps.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\bin\Debug\net7.0\Ebob_Ekok.runtimeconfig.json
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\bin\Debug\net7.0\Ebob_Ekok.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\bin\Debug\net7.0\Ebob_Ekok.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\refint\Ebob_Ekok.dll
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\Ebob_Ekok.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\Ebob_Ekok\obj\Debug\net7.0\ref\Ebob_Ekok.dll
