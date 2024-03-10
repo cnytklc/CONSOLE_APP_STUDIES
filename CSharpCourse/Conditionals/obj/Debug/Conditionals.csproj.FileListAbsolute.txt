@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
