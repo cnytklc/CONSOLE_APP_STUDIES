@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\bin\Debug\asalSayı.exe.config
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\bin\Debug\asalSayı.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\bin\Debug\asalSayı.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\obj\Debug\asalSayı.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\obj\Debug\asalSayı.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\obj\Debug\asalSayı.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\obj\Debug\asalSayı.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\asalSayı\obj\Debug\asalSayı.pdb

@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
