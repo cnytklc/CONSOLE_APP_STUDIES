@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\lenovo\Desktop\YazılımDerslerim\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb
